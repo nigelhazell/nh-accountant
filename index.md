@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Nigel Hazell: Welcome to my blog
 ---
 
